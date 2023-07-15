@@ -1,0 +1,17 @@
+Javohir  Muhammadiyev
+Tashkent, Uzbekistan | +998900312927 | muhammadiyev768@gmail.com | github.com/JavohirDevloper/
+Learner who is curious about things and excited about coding. I am currently studying at the "Salvation Education" educational center in Tashkent.
+SKILLS
+Languages: 	  JavaScript, TypeScript, SQL
+Frameworks:   NodeJS, ExpressJS, NestJS
+Databases: 	  MongoDB, PostgreSQL
+Libraries: 	  ReactJS
+Tools: 		  Git, Sequalize, KnexJS
+Soft skills:  Problem solving, Creativity, Critical thinking, Teamwork, Project Management,			 	 	 Communication, Time Management, Fast learning, Quick adaptability.
+EDUCATION
+
+Najot Ta’lim Education Center                                                                            September 2022 – June 2024
+Course:    Full-stack Web Development
+Learned technologies: HTML, CSS, SCSS, JavaScript, TypeScript, ReactJS, Bootstrap, Tailwind CSS, Ant.d, MUI,			        NodeJS, ExpressJS, NestJS, PostgreSQL, MongoDB…
+
+

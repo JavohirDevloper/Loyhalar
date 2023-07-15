@@ -1,0 +1,25 @@
+1.Wakanda figmasi       https://5-dars-wakanda.netlify.app/
+2.Boldo figmasi         https://boldo-1-page-footer-qismi.netlify.app/
+3.Salon figmasi         https://salonn-figmasi.netlify.app/
+4.Barmoq animatsiyasi   https://barmoqlar-animatsiyasi.netlify.app/
+5.Yurak animatsiyasi    https://yurak-animatsiyasi.netlify.app/
+6.Coffee figmasi        https://cofee-page-2-responsive.netlify.app/
+7.Qancha yashagan vatiz https://zamonlar-osha-vaqtlar.netlify.app/
+8.Pitsa tayyorlash      https://dunyodagi-eng-shirin-pitsa.netlify.app/
+9.Chiroq animatsiyasi   https://dunyodagi-eng-shirin-pitsa.netlify.app/
+10.Pitsa xarid qilish   https://buyurtma-berib-pitsa-xarit-qiling.netlify.app/
+11.Analog soat          https://analog-elektron-soatlar.netlify.app/
+12.Todolist             https://todolist-js-dom.netlify.app/
+13.Burger tayyorlash    https://burger-total-coder.netlify.app/
+14.Mashina o'yini       https://nokia-car-game.netlify.app/
+15.Kiyimlar do'koni     https://profound-tarsier-7b81ef.netlify.app/
+16.Kiyimlarni sortlash  https://clever-raindrop-db65e4.netlify.app/
+17.Kalkulyator          https://deft-eclair-cde76a.netlify.app/
+18.Kiyimlar olish       https://whimsical-pixie-e929bc.netlify.app/login
+19.Tasbeh               https://tasbeh-99.netlify.app/
+20.Muqisa player        https://glittering-stroopwafel-bb15b7.netlify.app/
+21.Quyosh animatsiyasi  https://remarkable-praline-8b9585.netlify.app/
+22.Tarvuz animatsiyasi  https://super-longma-0fd630.netlify.app/
+23.Ozov yozadiga        https://gapirib-kuringchi.netlify.app/
+24.Portifolio1          https://portifolio-javohir0607coder.netlify.app/
+25.Portifolio2          https://javohircoder.netlify.app/
